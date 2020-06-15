@@ -1,1 +1,21 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=2858069&assignment_repo_type=AssignmentRepo)
+# Створення сокет-клієнта
+
+## На "п'ять"
+
+* Вікно "Про програму" (About) відображається з використанням класу JOptionPane.
+* Користувач самостійно вводить ім'я.
+* Форма запускається у центрі екрану.
+* Не використовується файл хостів.
+* Підтримується кирилиця.
+
+### ChatClient
+
+<img src="https://github.com/ppc-ntu-khpi/sockets-34-aTochilov/blob/master/sockets1.png" width="50%"/>
+
+<img src="https://github.com/ppc-ntu-khpi/sockets-34-aTochilov/blob/master/sockets2.png" width="50%"/>
+
+### About app
+
+<img src="https://github.com/ppc-ntu-khpi/sockets-34-aTochilov/blob/master/sockets3.png" width="50%"/>
+
+
