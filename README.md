@@ -10,12 +10,12 @@
 
 ### ChatClient
 
-<img src="https://github.com/ppc-ntu-khpi/sockets-34-aTochilov/blob/master/sockets1.jpg" width="50%"/>
+<img src="https://github.com/ppc-ntu-khpi/sockets-34-aTochilov/blob/master/sockets1.png" width="50%"/>
 
-<img src="https://github.com/ppc-ntu-khpi/sockets-34-aTochilov/blob/master/sockets2.jpg" width="50%"/>
+<img src="https://github.com/ppc-ntu-khpi/sockets-34-aTochilov/blob/master/sockets2.png" width="50%"/>
 
 ### About app
 
-<img src="https://github.com/ppc-ntu-khpi/sockets-34-aTochilov/blob/master/sockets3.jpg" width="50%"/>
+<img src="https://github.com/ppc-ntu-khpi/sockets-34-aTochilov/blob/master/sockets3.png" width="50%"/>
 
 
